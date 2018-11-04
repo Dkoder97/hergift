@@ -55,6 +55,11 @@ class ImgFigure extends React.Component {
             <p>
               {this.props.data.desc}
             </p>
+                <span class="say">
+           <a href="present1.html" target="_blank">
+          礼物1
+          </a>
+          </span><br>
           </div>
         </figcaption>
       </figure>
